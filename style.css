@@ -1,0 +1,24 @@
+/* schakalsynthetc.github.io/style.css */
+
+body {
+    background: #000000; color: #A0A0A0;
+}
+
+span.english {
+    color: #0000AA;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 48pt;
+    font-weight: bold;
+}
+span.greek {
+    color: #00aa85;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 48pt;
+    font-weight: bold;
+}
+span.cjk {
+    color: #77aa00;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 48pt;
+    font-weight: bold;
+}
