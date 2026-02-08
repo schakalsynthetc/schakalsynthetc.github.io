@@ -1,3 +1,3 @@
 # schakalsynthetc.github.io
 
-[hello schackalsynthetc.github.io](https://schackalsynthetc.github.io)
+[hello schakalsynthetc.github.io](https://schakalsynthetc.github.io)
